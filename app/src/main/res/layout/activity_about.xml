@@ -93,7 +93,7 @@
         android:layout_below="@id/textView"
         android:layout_centerHorizontal="true"
         android:layout_marginLeft="16dip"
-        android:layout_marginTop="390dp"
+        android:layout_marginTop="200dp"
         android:layout_marginRight="16dip"
         android:text="@string/About_text"
         android:textColor="@color/black"
