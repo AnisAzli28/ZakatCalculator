@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GoZakat</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright©KewajipanZakat</string>
+    <string name="About_text"><a href="https://www.youtube.com/">Source Code Link</a></string>
+    <string name="developer1">NAME: ANIS SYAFIQAH BINTI MOHD AZLI</string>
+    <string name="devId1">STUDENT ID: 2020827746</string>
+    <string name="group">GROUP: RCS2405A</string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+
+</resources>
